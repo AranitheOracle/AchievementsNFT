@@ -1,0 +1,16 @@
+{
+    "name": "Wealth Achievement",
+    "description": "Awarded for achieving significant financial milestones.",
+    "image": "https://www.nimbleappgenie.com/blogs/wp-content/uploads/2023/01/3-1024x683.jpg",  
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Financial"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Gold"
+      }
+    ]
+  }
+  

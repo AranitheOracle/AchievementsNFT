@@ -8,6 +8,8 @@
 
 ## Introduction
 
+![alt text](image-1.png)
+
 **AchievementNFT** is a decentralized application (DApp) built on the Ethereum blockchain. It leverages smart contracts to manage and issue NFTs (Non-Fungible Tokens) as digital badges for achievements. This project demonstrates how to create, manage, and retrieve NFTs that represent various achievements and milestones.
 
 The smart contract defines a structure for achievements and provides functions to create and access these achievements. The frontend is built using React and interacts with the Ethereum blockchain through the contract.
