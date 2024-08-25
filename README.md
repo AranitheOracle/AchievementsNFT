@@ -45,11 +45,3 @@ The AchievementNFT DApp serves the following purposes:
 
 - **Remix IDE:** A web-based development environment for Solidity smart contracts. Used for writing, compiling, and deploying the smart contract.
 - **ethers.js/web3.js:** JavaScript libraries for interacting with the Ethereum blockchain from the frontend. `ethers.js` is used to connect and interact with the Ethereum network.
-
-## Getting Started
-
-### **1. Clone the Repository**
-
-```bash
-git clone https://github.com/yourusername/achievement-nft.git
-cd achievement-nft
