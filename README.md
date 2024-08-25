@@ -45,3 +45,13 @@ The AchievementNFT DApp serves the following purposes:
 
 - **Remix IDE:** A web-based development environment for Solidity smart contracts. Used for writing, compiling, and deploying the smart contract.
 - **ethers.js/web3.js:** JavaScript libraries for interacting with the Ethereum blockchain from the frontend. `ethers.js` is used to connect and interact with the Ethereum network.
+
+### Contact details:
+- Name: Arani Ghosh
+- Email: aranighosh13@gmail.com
+
+
+### Deployment
+- **Chain Name :** EduChain Open Campus
+- 0xC8A905750841D0D4d792d4183bA87dAE75065904
+![Contract details](image.png)
